@@ -2,14 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45963d7e-338b-48cb-bed1-3c0661607d54" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/likelion-django/blogproject/accounts/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/likelion-django/blogproject/blogapp/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/likelion-django/blogproject/blogapp/templates/detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/likelion-django/blogproject/blogapp/templates/form_create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/likelion-django/blogproject/blogapp/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/likelion-django/blogproject/blogapp/templates/new.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/likelion-django/cafeproject/cafeapp/templates/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/previous-study/polls/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/previous-study/polls/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/previous-study/polls/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/previous-study/polls/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/likelion-django/myproject/config/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/likelion-django/myproject/config/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/likelion-django/myproject/config/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/likelion-django/myproject/config/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/likelion-django/myproject/config/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/likelion-django/myproject/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/likelion-django/myproject/myapp/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/likelion-django/myproject/myapp/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/likelion-django/myproject/myapp/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/likelion-django/myproject/myapp/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/likelion-django/myproject/myapp/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/likelion-django/myproject/myapp/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/likelion-django/myproject/myapp/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/likelion-django/myproject/myapp/views.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -24,12 +50,16 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/likelion-study/polls" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/likelion-django/introsite/product" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\django_practice\likelion-study\likelion-django\introsite\product" />
+      <recent name="C:\django_practice\likelion-study\likelion-django" />
       <recent name="C:\django_practice\likelion-study\likelion-study\polls" />
     </key>
   </component>
@@ -43,5 +73,16 @@
       <updated>1650378357622</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

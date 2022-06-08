@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <h1>Django form을 이용한 새 글 작성 페이지</h1>
+    <form action="", method="POST" enctype="multipart/form-data">
+        {% csrf_token %}
+        <!-- views.py에서 render() 세번째 인자로 받은 데이터는 html 내에서 괄호 2개로 감싸진 채로 표현한다 -->
+        <table>
+            <!-- Table처럼 보여진다 -->
+            {{ form.as_table }}
+        </table>
+        <input type="submit" value="새 글 생성하기">
+    </form>
+</body>
+</html>

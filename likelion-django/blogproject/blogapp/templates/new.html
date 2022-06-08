@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <form action="{% url 'create' %}" method="POST">
+        <!-- POST 전송을 위해 보안 상 작성하는 코드 csrf_token -->
+        {% csrf_token %}
+        <div>
+            <label for="title">제목</label><br>
+            <input type="text" name="title" id="title">
+        </div>
+        <div>
+            <label for="body">내용</label><br>
+            <textarea name="body" id="body" cols="30" rows="10"></textarea>
+        </div>
+        <input type="submit" value="글 생성하기">
+    </form>
+</body>
+</html>
