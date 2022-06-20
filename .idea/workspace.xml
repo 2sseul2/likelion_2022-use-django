@@ -2,28 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45963d7e-338b-48cb-bed1-3c0661607d54" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/likelion-django/blogproject/accounts/templates/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/likelion-django/blogproject/blogapp/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/likelion-django/blogproject/blogapp/templates/detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/likelion-django/blogproject/blogapp/templates/form_create.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/likelion-django/blogproject/blogapp/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/likelion-django/blogproject/blogapp/templates/new.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/likelion-django/cafeproject/cafeapp/templates/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/likelion-django/myproject/config/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/likelion-django/myproject/config/asgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/likelion-django/myproject/config/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/likelion-django/myproject/config/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/likelion-django/myproject/config/wsgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/likelion-django/myproject/manage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/likelion-django/myproject/myapp/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/likelion-django/myproject/myapp/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/likelion-django/myproject/myapp/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/likelion-django/myproject/myapp/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/likelion-django/myproject/myapp/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/likelion-django/myproject/myapp/templates/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/likelion-django/myproject/myapp/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/likelion-django/myproject/myapp/views.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,5 +63,15 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/likelion-django/blogproject/accounts/views.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
